@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgleysson&label=Profile%20views&color=0e75b6&style=flat" alt="lucasgleysson" /> </p>
 
+- 🔭 I’m currently working on **getting my first job with data**
+
 - 🌱 I’m currently learning **Pandas, Numpy, Seaborn, Matplotlib, etc.**
 
 - 💬 Ask me about **Python**
